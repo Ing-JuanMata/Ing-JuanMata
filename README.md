@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Ing-JuanMata
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ing-JuanMata/Ing-JuanMata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Fullstack development, cloud computing and DevOps
+- 🌱 I’m currently learning DevOps with github actions and cloud computing/servers management with AWS 
+- 📫 Is possible reach me by email in ingjuanjesusmata@gmail.com
